@@ -1,5 +1,4 @@
 import streamlit as st
-# import streamlit_authenticator as stauth
 from itertools import permutations, combinations
 import enchant
 
